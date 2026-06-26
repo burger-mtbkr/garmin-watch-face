@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+    <string id="AppName">Yellow Gold</string>
+
+    <!-- Time format -->
+    <string id="TimeFormatTitle">Time Format</string>
+    <string id="TimeFormat12">12-hour (7:46)</string>
+    <string id="TimeFormat24">24-hour (07:46)</string>
+    <string id="TimeFormatMil">Military (0746)</string>
+
+    <!-- Field toggles -->
+    <string id="ShowSecondsTitle">Show Seconds</string>
+    <string id="ShowStepsTitle">Show Steps</string>
+    <string id="ShowHeartRateTitle">Show Heart Rate</string>
+    <string id="ShowBodyBatteryTitle">Show Body Battery</string>
+
+    <!-- Date format -->
+    <string id="DateFormatTitle">Date Format</string>
+    <string id="DateFormatWeekday">Weekday (SAT JUN 27)</string>
+    <string id="DateFormatDayMonth">Day Month (27 JUN)</string>
+    <string id="DateFormatNumeric">Numeric (06/27)</string>
+
+    <!-- Accent color -->
+    <string id="AccentTitle">Accent Color</string>
+    <string id="AccentYellow">Yellow Gold</string>
+    <string id="AccentWhite">White</string>
+    <string id="AccentRed">Red</string>
+    <string id="AccentOrange">Orange</string>
+    <string id="AccentCyan">Cyan</string>
+    <string id="AccentGreen">Green</string>
+</strings>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+    <!-- 0 = 12h, 1 = 24h, 2 = military -->
+    <property id="TimeFormat" type="number">1</property>
+    <property id="ShowSeconds" type="boolean">false</property>
+    <property id="ShowSteps" type="boolean">true</property>
+    <property id="ShowHeartRate" type="boolean">true</property>
+    <property id="ShowBodyBattery" type="boolean">true</property>
+    <!-- 0 = weekday, 1 = day month, 2 = numeric -->
+    <property id="DateFormat" type="number">0</property>
+    <!-- 0 = yellow, 1 = white, 2 = red, 3 = orange, 4 = cyan, 5 = green -->
+    <property id="AccentColor" type="number">0</property>
+</properties>
