@@ -4,6 +4,9 @@ A clean, high-contrast Connect IQ watch face for the **Garmin Fenix 8 Pro
 (47mm / 51mm, including MicroLED)**. Solid black background with bright
 **yellow-gold** text to match a black body + yellow-gold strap.
 
+<img width="524" height="630" alt="image" src="https://github.com/user-attachments/assets/edf220ee-d0ea-4006-b3ae-3045b3bf75b9" />
+
+
 ## Features
 
 - **Clean centered layout**
