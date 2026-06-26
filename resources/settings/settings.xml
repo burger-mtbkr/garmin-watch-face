@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <setting propertyKey="@Properties.TimeFormat" title="@Strings.TimeFormatTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.TimeFormat12</listEntry>
+            <listEntry value="1">@Strings.TimeFormat24</listEntry>
+            <listEntry value="2">@Strings.TimeFormatMil</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.DateFormat" title="@Strings.DateFormatTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.DateFormatWeekday</listEntry>
+            <listEntry value="1">@Strings.DateFormatDayMonth</listEntry>
+            <listEntry value="2">@Strings.DateFormatNumeric</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.AccentColor" title="@Strings.AccentTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.AccentYellow</listEntry>
+            <listEntry value="1">@Strings.AccentWhite</listEntry>
+            <listEntry value="2">@Strings.AccentRed</listEntry>
+            <listEntry value="3">@Strings.AccentOrange</listEntry>
+            <listEntry value="4">@Strings.AccentCyan</listEntry>
+            <listEntry value="5">@Strings.AccentGreen</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.ShowSeconds" title="@Strings.ShowSecondsTitle">
+        <settingConfig type="boolean"/>
+    </setting>
+
+    <setting propertyKey="@Properties.ShowSteps" title="@Strings.ShowStepsTitle">
+        <settingConfig type="boolean"/>
+    </setting>
+
+    <setting propertyKey="@Properties.ShowHeartRate" title="@Strings.ShowHeartRateTitle">
+        <settingConfig type="boolean"/>
+    </setting>
+
+    <setting propertyKey="@Properties.ShowBodyBattery" title="@Strings.ShowBodyBatteryTitle">
+        <settingConfig type="boolean"/>
+    </setting>
+</settings>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iq:manifest xmlns:iq="http://www.garmin.com/xml/connectiq" version="3">
+    <iq:application
+        id="730e028ac94842c5b2c42b8e132ab88b"
+        type="watchface"
+        name="@Strings.AppName"
+        entry="YellowGoldApp"
+        launcherIcon="@Drawables.LauncherIcon"
+        minApiLevel="6.0">
+
+        <!-- Fenix 8 Pro 47mm / 51mm including MicroLED (all 454x454 round). -->
+        <!-- NOTE: verify these ids against bin/devices.xml in your installed SDK; -->
+        <!-- a wrong id fails the build immediately and is a one-line fix. -->
+        <iq:products>
+            <iq:product id="fenix8pro47mm"/>
+            <iq:product id="fenix8pro51mm"/>
+        </iq:products>
+
+        <iq:permissions>
+            <!-- Body Battery / heart-rate history are read via Toybox.SensorHistory. -->
+            <iq:uses-permission id="SensorHistory"/>
+        </iq:permissions>
+
+        <iq:languages>
+            <iq:language>eng</iq:language>
+        </iq:languages>
+    </iq:application>
+</iq:manifest>
