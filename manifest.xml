@@ -6,14 +6,14 @@
         name="@Strings.AppName"
         entry="YellowGoldApp"
         launcherIcon="@Drawables.LauncherIcon"
-        minApiLevel="6.0">
+        minApiLevel="6.0.0">
 
-        <!-- Fenix 8 Pro 47mm / 51mm including MicroLED (all 454x454 round). -->
-        <!-- NOTE: verify these ids against bin/devices.xml in your installed SDK; -->
-        <!-- a wrong id fails the build immediately and is a one-line fix. -->
+        <!-- Fenix 8 Pro (454x454 round). NOTE: Connect IQ SDK 9.2.0 only ships a
+             "fenix8pro47mm" device id; there is no "fenix8pro51mm" target, so it
+             was removed (it fails the build with "Invalid device id"). Re-add the
+             51mm id here if a future SDK introduces it. -->
         <iq:products>
             <iq:product id="fenix8pro47mm"/>
-            <iq:product id="fenix8pro51mm"/>
         </iq:products>
 
         <iq:permissions>

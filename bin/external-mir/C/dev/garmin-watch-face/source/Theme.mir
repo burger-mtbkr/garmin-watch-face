@@ -1,0 +1,165 @@
+[ @file = "C:\dev\garmin-watch-face\source\Theme.mc"; @line = 1; @symbol_importdef<0> = [Toybox,1,7,13]; @symbol_importdef<1> = [Lang,1,14,18]; ]
+import Toybox.Lang;
+[ @file = "C:\dev\garmin-watch-face\source\Theme.mc"; @line = 2; @symbol_importdef<0> = [Toybox,2,7,13]; @symbol_importdef<1> = [Graphics,2,14,22]; ]
+import Toybox.Graphics;
+[ @file = "C:\dev\garmin-watch-face\source\Theme.mc"; @line = 6; @symbol_moduledef = [Theme,6,7,12]; ]
+module Theme {
+    [ @file = "C:\dev\garmin-watch-face\source\Theme.mc"; @line = 6; ]
+    <init> {
+[ "C:\dev\garmin-watch-face\source\Theme.mc" 8 10 ]
+        symbol [ Graphics %tmp.1 8 23 31 ];
+        %tmp.1 = getm $.Toybox.Graphics;
+        symbol [ COLOR_BLACK %tmp.2 8 32 43 ];
+        %tmp.2 = getv %tmp.1 :COLOR_BLACK;
+        putv self :BACKGROUND %tmp.2;
+[ "C:\dev\garmin-watch-face\source\Theme.mc" 27 10 ]
+        %tmp.3 = newa 6 Array<Number>;
+        symbol [ Array %tmp.3 34 9 14 ];
+        symbol [ Number %tmp.3 34 15 21 ];
+        %tmp.4 = 0xF2941A;
+        %tmp.5 = dup %tmp.3;
+        %tmp.6 = aputv %tmp.5 0 %tmp.4;
+        %tmp.7 = 0xFFFFFF;
+        %tmp.8 = dup %tmp.6;
+        %tmp.9 = aputv %tmp.8 1 %tmp.7;
+        %tmp.10 = 0xFF3333;
+        %tmp.11 = dup %tmp.9;
+        %tmp.12 = aputv %tmp.11 2 %tmp.10;
+        %tmp.13 = 0xFF8800;
+        %tmp.14 = dup %tmp.12;
+        %tmp.15 = aputv %tmp.14 3 %tmp.13;
+        %tmp.16 = 0x00E5FF;
+        %tmp.17 = dup %tmp.15;
+        %tmp.18 = aputv %tmp.17 4 %tmp.16;
+        %tmp.19 = 0x33FF66;
+        %tmp.20 = dup %tmp.18;
+        %tmp.21 = aputv %tmp.20 5 %tmp.19;
+        putv self :ACCENTS %tmp.21;
+    }
+    [ @file = "C:\dev\garmin-watch-face\source\Theme.mc"; @line = 8; @position = 10; @symbol_constdef = [BACKGROUND,8,10,20]; ]
+    const BACKGROUND;
+    [ @file = "C:\dev\garmin-watch-face\source\Theme.mc"; @line = 11; @position = 10; @symbol_constdef = [LOW,11,10,13]; ]
+    const LOW = 0xFF3344;
+    [ @file = "C:\dev\garmin-watch-face\source\Theme.mc"; @line = 14; @position = 10; @symbol_constdef = [HILITE,14,10,16]; ]
+    const HILITE = 0xFF3333;
+    [ @file = "C:\dev\garmin-watch-face\source\Theme.mc"; @line = 19; @symbol_functiondef = [scaled,19,13,19]; @symbol_param<0> = [color,19,20,25]; @symbol_param<0>_type<0> = [Number,19,29,35]; @symbol_param<1> = [num,19,37,40]; @symbol_param<1>_type<0> = [Number,19,44,50]; @symbol_param<2> = [den,19,52,55]; @symbol_param<2>_type<0> = [Number,19,59,65]; @symbol_return<0> = [Number,19,70,76]; ]
+    function scaled(color as Number, num as Number, den as Number) as Number {
+C__dev_garmin_watch_face_source_Theme_mc_19_77_24_4_start:
+[ "C:\dev\garmin-watch-face\source\Theme.mc" 20 8 ]
+        [ "C__dev_garmin_watch_face_source_Theme_mc_19_77_24_4_start" "C__dev_garmin_watch_face_source_Theme_mc_19_77_24_4_stop" ]
+        %r.1 = local;
+        symbol [ r %r.1 20 12 13 ];
+        %tmp.1 = lgetv %color;
+        symbol [ color %tmp.1 20 19 24 ];
+        %tmp.2 = 16;
+        %tmp.3 = shr %tmp.1 %tmp.2;
+        %tmp.4 = 0xFF;
+        %tmp.5 = bitand %tmp.3 %tmp.4;
+        %tmp.6 = lgetv %num;
+        symbol [ num %tmp.6 20 42 45 ];
+        %tmp.7 = mul %tmp.5 %tmp.6;
+        %tmp.8 = lgetv %den;
+        symbol [ den %tmp.8 20 49 52 ];
+        %tmp.9 = div %tmp.7 %tmp.8;
+        lputv %r.1 %tmp.9;
+        symbol [ r %r.1 20 12 13 ];
+[ "C:\dev\garmin-watch-face\source\Theme.mc" 21 8 ]
+        [ "C__dev_garmin_watch_face_source_Theme_mc_19_77_24_4_start" "C__dev_garmin_watch_face_source_Theme_mc_19_77_24_4_stop" ]
+        %g.2 = local;
+        symbol [ g %g.2 21 12 13 ];
+        %tmp.10 = lgetv %color;
+        symbol [ color %tmp.10 21 19 24 ];
+        %tmp.11 = 8;
+        %tmp.12 = shr %tmp.10 %tmp.11;
+        %tmp.13 = 0xFF;
+        %tmp.14 = bitand %tmp.12 %tmp.13;
+        %tmp.15 = lgetv %num;
+        symbol [ num %tmp.15 21 41 44 ];
+        %tmp.16 = mul %tmp.14 %tmp.15;
+        %tmp.17 = lgetv %den;
+        symbol [ den %tmp.17 21 48 51 ];
+        %tmp.18 = div %tmp.16 %tmp.17;
+        lputv %g.2 %tmp.18;
+        symbol [ g %g.2 21 12 13 ];
+[ "C:\dev\garmin-watch-face\source\Theme.mc" 22 8 ]
+        [ "C__dev_garmin_watch_face_source_Theme_mc_19_77_24_4_start" "C__dev_garmin_watch_face_source_Theme_mc_19_77_24_4_stop" ]
+        %b.3 = local;
+        symbol [ b %b.3 22 12 13 ];
+        %tmp.19 = lgetv %color;
+        symbol [ color %tmp.19 22 18 23 ];
+        %tmp.20 = 0xFF;
+        %tmp.21 = bitand %tmp.19 %tmp.20;
+        %tmp.22 = lgetv %num;
+        symbol [ num %tmp.22 22 34 37 ];
+        %tmp.23 = mul %tmp.21 %tmp.22;
+        %tmp.24 = lgetv %den;
+        symbol [ den %tmp.24 22 41 44 ];
+        %tmp.25 = div %tmp.23 %tmp.24;
+        lputv %b.3 %tmp.25;
+        symbol [ b %b.3 22 12 13 ];
+[ "C:\dev\garmin-watch-face\source\Theme.mc" 23 8 ]
+        %tmp.26 = lgetv %r.1;
+        symbol [ r %tmp.26 23 16 17 ];
+        %tmp.27 = 16;
+        %tmp.28 = shl %tmp.26 %tmp.27;
+        %tmp.29 = lgetv %g.2;
+        symbol [ g %tmp.29 23 28 29 ];
+        %tmp.30 = 8;
+        %tmp.31 = shl %tmp.29 %tmp.30;
+        %tmp.32 = bitor %tmp.28 %tmp.31;
+        %tmp.33 = lgetv %b.3;
+        symbol [ b %tmp.33 23 38 39 ];
+        %tmp.34 = bitor %tmp.32 %tmp.33;
+        ret %tmp.34;
+C__dev_garmin_watch_face_source_Theme_mc_19_77_24_4_stop:
+    }
+    [ @file = "C:\dev\garmin-watch-face\source\Theme.mc"; @line = 27; @position = 10; @symbol_constdef = [ACCENTS,27,10,17]; ]
+    const ACCENTS;
+    [ @file = "C:\dev\garmin-watch-face\source\Theme.mc"; @line = 36; @symbol_functiondef = [accentColor,36,13,24]; @symbol_param<0> = [index,36,25,30]; @symbol_param<0>_type<0> = [Number,36,34,40]; @symbol_return<0> = [Number,36,45,51]; ]
+    function accentColor(index as Number) as Number {
+C__dev_garmin_watch_face_source_Theme_mc_36_52_41_4_start:
+[ "C:\dev\garmin-watch-face\source\Theme.mc" 37 8 ]
+C__dev_garmin_watch_face_source_Theme_mc_37_8_39_8_if_stmt:
+C__dev_garmin_watch_face_source_Theme_mc_37_12_37_47_begin:
+        %tmp.1 = lgetv %index;
+        symbol [ index %tmp.1 37 12 17 ];
+        %tmp.2 = 0;
+        %tmp.3 = lt %tmp.1 %tmp.2;
+        bt %tmp.3 @C__dev_garmin_watch_face_source_Theme_mc_37_8_39_8_if_true;
+C__dev_garmin_watch_face_source_Theme_mc_37_25_37_47_false:
+        %tmp.4 = lgetv %index;
+        symbol [ index %tmp.4 37 25 30 ];
+        symbol [ ACCENTS %tmp.6 37 34 41 ];
+        %tmp.6 = getv ? :ACCENTS;
+        symbol [ size %tmp.7 37 42 46 ];
+        %tmp.7 = getv function %tmp.6 :size;
+        %tmp.8 = invoke %tmp.6 %tmp.7();
+        %tmp.9 = gte %tmp.4 %tmp.8;
+        push %tmp.9;
+C__dev_garmin_watch_face_source_Theme_mc_37_25_37_47_end:
+        %tmp.10 = phi [%tmp.3 @C__dev_garmin_watch_face_source_Theme_mc_37_12_37_47_begin] [%tmp.9 @C__dev_garmin_watch_face_source_Theme_mc_37_25_37_47_false] [%tmp.10 @C__dev_garmin_watch_face_source_Theme_mc_37_25_37_47_end];
+        bf %tmp.10 @C__dev_garmin_watch_face_source_Theme_mc_37_8_39_8_if_end;
+C__dev_garmin_watch_face_source_Theme_mc_37_8_39_8_if_true:
+C__dev_garmin_watch_face_source_Theme_mc_37_50_39_8_start:
+[ "C:\dev\garmin-watch-face\source\Theme.mc" 38 12 ]
+        symbol [ ACCENTS %tmp.12 38 19 26 ];
+        %tmp.12 = getv ? :ACCENTS;
+        %tmp.13 = 0;
+        %tmp.14 = agetv %tmp.12 %tmp.13;
+        ret %tmp.14;
+C__dev_garmin_watch_face_source_Theme_mc_37_50_39_8_stop:
+        goto @C__dev_garmin_watch_face_source_Theme_mc_37_8_39_8_if_end;
+C__dev_garmin_watch_face_source_Theme_mc_37_8_39_8_if_end:
+[ "C:\dev\garmin-watch-face\source\Theme.mc" 40 8 ]
+        symbol [ ACCENTS %tmp.16 40 15 22 ];
+        %tmp.16 = getv ? :ACCENTS;
+        %tmp.17 = lgetv %index;
+        symbol [ index %tmp.17 40 23 28 ];
+        %tmp.18 = agetv %tmp.16 %tmp.17;
+        ret %tmp.18;
+C__dev_garmin_watch_face_source_Theme_mc_36_52_41_4_stop:
+    }
+}
+[ @file = "C:\dev\garmin-watch-face\source\Theme.mc"; @line = 1; ]
+<init> {
+}

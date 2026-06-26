@@ -16,7 +16,7 @@
 
     <!-- Date format -->
     <string id="DateFormatTitle">Date Format</string>
-    <string id="DateFormatWeekday">Weekday (SAT JUN 27)</string>
+    <string id="DateFormatWeekday">Weekday (SAT 27 JUN)</string>
     <string id="DateFormatDayMonth">Day Month (27 JUN)</string>
     <string id="DateFormatNumeric">Numeric (06/27)</string>
 

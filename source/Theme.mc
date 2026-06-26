@@ -7,12 +7,25 @@ module Theme {
 
     const BACKGROUND = Graphics.COLOR_BLACK;
 
-    // Dim tone used for small field labels so values stay the focus.
-    const LABEL = 0x555555;
+    // Low-battery warning tint (only used when charge drops to <= 15%).
+    const LOW = 0xFF3344;
+
+    // Red highlight used for the day number in the date.
+    const HILITE = 0xFF3333;
+
+    // Scales a packed RGB color's brightness by num/den (per channel).
+    // Used to derive a tonal hierarchy (dim date, bronze labels, faint ring
+    // tracks) from a single accent color so the whole face stays monochromatic.
+    function scaled(color as Number, num as Number, den as Number) as Number {
+        var r = (((color >> 16) & 0xFF) * num) / den;
+        var g = (((color >> 8) & 0xFF) * num) / den;
+        var b = ((color & 0xFF) * num) / den;
+        return (r << 16) | (g << 8) | b;
+    }
 
     // Accent palette, indexed by the AccentColor property (0 = yellow-gold).
     const ACCENTS = [
-        0xFFCC00, // 0 yellow-gold
+        0xF2941A, // 0 amber-gold (matches the Spark Orange strap)
         0xFFFFFF, // 1 white
         0xFF3333, // 2 red
         0xFF8800, // 3 orange

@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\dev\garmin-watch-face\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="1" lineNum="16" parent="globals/YellowGoldView" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\bin\\gen\\006-B4631-00\\source\\Rez.mcgen" id="2" lineNum="7" parent="globals/Rez" pc="268435472" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldApp.mc" id="3" lineNum="6" parent="globals/YellowGoldApp" pc="268435492" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="4" lineNum="78" parent="globals/YellowGoldView" pc="268435504" symbol="onExitSleep"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="4" lineNum="79" parent="globals/YellowGoldView" pc="268435506" symbol="onExitSleep"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="4" lineNum="80" parent="globals/YellowGoldView" pc="268435514" symbol="onExitSleep"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="5" lineNum="36" parent="globals/YellowGoldView" pc="268435526" symbol="onLayout"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="5" lineNum="37" parent="globals/YellowGoldView" pc="268435528" symbol="onLayout"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="5" lineNum="38" parent="globals/YellowGoldView" pc="268435542" symbol="onLayout"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="133" parent="globals/YellowGoldView" pc="268435557" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="134" parent="globals/YellowGoldView" pc="268435560" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="135" parent="globals/YellowGoldView" pc="268435572" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="136" parent="globals/YellowGoldView" pc="268435580" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="137" parent="globals/YellowGoldView" pc="268435588" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="140" parent="globals/YellowGoldView" pc="268435598" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="141" parent="globals/YellowGoldView" pc="268435601" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="142" parent="globals/YellowGoldView" pc="268435608" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="143" parent="globals/YellowGoldView" pc="268435615" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="143" parent="globals/YellowGoldView" pc="268435622" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="144" parent="globals/YellowGoldView" pc="268435629" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="145" parent="globals/YellowGoldView" pc="268435666" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="146" parent="globals/YellowGoldView" pc="268435692" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="147" parent="globals/YellowGoldView" pc="268435700" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="149" parent="globals/YellowGoldView" pc="268435734" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="152" parent="globals/YellowGoldView" pc="268435771" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="153" parent="globals/YellowGoldView" pc="268435775" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="154" parent="globals/YellowGoldView" pc="268435791" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="155" parent="globals/YellowGoldView" pc="268435801" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="157" parent="globals/YellowGoldView" pc="268435820" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="159" parent="globals/YellowGoldView" pc="268435841" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="160" parent="globals/YellowGoldView" pc="268435856" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="161" parent="globals/YellowGoldView" pc="268435869" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="162" parent="globals/YellowGoldView" pc="268435875" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="163" parent="globals/YellowGoldView" pc="268435905" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="168" parent="globals/YellowGoldView" pc="268435934" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="169" parent="globals/YellowGoldView" pc="268435950" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="170" parent="globals/YellowGoldView" pc="268435959" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="6" lineNum="173" parent="globals/YellowGoldView" pc="268435980" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="7" lineNum="323" parent="globals/YellowGoldView" pc="268435996" symbol="&lt;globals/YellowGoldView/&lt;&gt;getBodyBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="7" lineNum="324" parent="globals/YellowGoldView" pc="268435999" symbol="&lt;globals/YellowGoldView/&lt;&gt;getBodyBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="7" lineNum="325" parent="globals/YellowGoldView" pc="268436007" symbol="&lt;globals/YellowGoldView/&lt;&gt;getBodyBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="255" parent="globals/YellowGoldView" pc="268436037" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="256" parent="globals/YellowGoldView" pc="268436040" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="257" parent="globals/YellowGoldView" pc="268436044" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="258" parent="globals/YellowGoldView" pc="268436055" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="260" parent="globals/YellowGoldView" pc="268436084" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="261" parent="globals/YellowGoldView" pc="268436095" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="263" parent="globals/YellowGoldView" pc="268436124" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="264" parent="globals/YellowGoldView" pc="268436135" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="267" parent="globals/YellowGoldView" pc="268436164" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="268" parent="globals/YellowGoldView" pc="268436173" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="269" parent="globals/YellowGoldView" pc="268436180" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="272" parent="globals/YellowGoldView" pc="268436184" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="273" parent="globals/YellowGoldView" pc="268436194" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="274" parent="globals/YellowGoldView" pc="268436197" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="275" parent="globals/YellowGoldView" pc="268436201" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="277" parent="globals/YellowGoldView" pc="268436217" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="279" parent="globals/YellowGoldView" pc="268436237" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="280" parent="globals/YellowGoldView" pc="268436248" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="281" parent="globals/YellowGoldView" pc="268436267" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="282" parent="globals/YellowGoldView" pc="268436276" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="284" parent="globals/YellowGoldView" pc="268436286" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="285" parent="globals/YellowGoldView" pc="268436300" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="288" parent="globals/YellowGoldView" pc="268436320" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="8" lineNum="289" parent="globals/YellowGoldView" pc="268436334" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="9" lineNum="304" parent="globals/YellowGoldView" pc="268436368" symbol="&lt;globals/YellowGoldView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="9" lineNum="306" parent="globals/YellowGoldView" pc="268436371" symbol="&lt;globals/YellowGoldView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="9" lineNum="307" parent="globals/YellowGoldView" pc="268436383" symbol="&lt;globals/YellowGoldView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="9" lineNum="308" parent="globals/YellowGoldView" pc="268436400" symbol="&lt;globals/YellowGoldView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="9" lineNum="311" parent="globals/YellowGoldView" pc="268436424" symbol="&lt;globals/YellowGoldView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="9" lineNum="312" parent="globals/YellowGoldView" pc="268436454" symbol="&lt;globals/YellowGoldView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="9" lineNum="313" parent="globals/YellowGoldView" pc="268436481" symbol="&lt;globals/YellowGoldView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="9" lineNum="314" parent="globals/YellowGoldView" pc="268436487" symbol="&lt;globals/YellowGoldView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="9" lineNum="315" parent="globals/YellowGoldView" pc="268436497" symbol="&lt;globals/YellowGoldView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="9" lineNum="316" parent="globals/YellowGoldView" pc="268436514" symbol="&lt;globals/YellowGoldView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="9" lineNum="320" parent="globals/YellowGoldView" pc="268436544" symbol="&lt;globals/YellowGoldView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="10" lineNum="195" parent="globals/YellowGoldView" pc="268436550" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawSeconds&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="10" lineNum="196" parent="globals/YellowGoldView" pc="268436553" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawSeconds&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="10" lineNum="197" parent="globals/YellowGoldView" pc="268436583" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawSeconds&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="10" lineNum="198" parent="globals/YellowGoldView" pc="268436587" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawSeconds&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="10" lineNum="199" parent="globals/YellowGoldView" pc="268436602" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawSeconds&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="10" lineNum="201" parent="globals/YellowGoldView" pc="268436618" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawSeconds&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="10" lineNum="202" parent="globals/YellowGoldView" pc="268436623" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawSeconds&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="10" lineNum="203" parent="globals/YellowGoldView" pc="268436653" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawSeconds&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="10" lineNum="204" parent="globals/YellowGoldView" pc="268436665" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawSeconds&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="10" lineNum="206" parent="globals/YellowGoldView" pc="268436676" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawSeconds&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="10" lineNum="207" parent="globals/YellowGoldView" pc="268436690" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawSeconds&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="10" lineNum="208" parent="globals/YellowGoldView" pc="268436716" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawSeconds&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="10" lineNum="209" parent="globals/YellowGoldView" pc="268436721" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawSeconds&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="11" lineNum="65" parent="globals/YellowGoldView" pc="268436733" symbol="onPartialUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="11" lineNum="66" parent="globals/YellowGoldView" pc="268436736" symbol="onPartialUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="11" lineNum="67" parent="globals/YellowGoldView" pc="268436748" symbol="onPartialUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="11" lineNum="68" parent="globals/YellowGoldView" pc="268436768" symbol="onPartialUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="11" lineNum="69" parent="globals/YellowGoldView" pc="268436790" symbol="onPartialUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="110" parent="globals/YellowGoldView" pc="268436808" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="112" parent="globals/YellowGoldView" pc="268436811" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="113" parent="globals/YellowGoldView" pc="268436815" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="114" parent="globals/YellowGoldView" pc="268436825" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="115" parent="globals/YellowGoldView" pc="268436839" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="116" parent="globals/YellowGoldView" pc="268436851" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="118" parent="globals/YellowGoldView" pc="268436869" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="120" parent="globals/YellowGoldView" pc="268436902" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="121" parent="globals/YellowGoldView" pc="268436906" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="122" parent="globals/YellowGoldView" pc="268436916" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="123" parent="globals/YellowGoldView" pc="268436932" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="123" parent="globals/YellowGoldView" pc="268436939" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="124" parent="globals/YellowGoldView" pc="268436945" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="124" parent="globals/YellowGoldView" pc="268436953" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="125" parent="globals/YellowGoldView" pc="268436960" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="126" parent="globals/YellowGoldView" pc="268436967" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="12" lineNum="128" parent="globals/YellowGoldView" pc="268437000" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="13" lineNum="178" parent="globals/YellowGoldView" pc="268437013" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawOutlinedNumber&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="13" lineNum="180" parent="globals/YellowGoldView" pc="268437016" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawOutlinedNumber&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="13" lineNum="181" parent="globals/YellowGoldView" pc="268437020" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawOutlinedNumber&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="13" lineNum="182" parent="globals/YellowGoldView" pc="268437024" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawOutlinedNumber&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="13" lineNum="183" parent="globals/YellowGoldView" pc="268437038" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawOutlinedNumber&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="13" lineNum="184" parent="globals/YellowGoldView" pc="268437061" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawOutlinedNumber&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="13" lineNum="185" parent="globals/YellowGoldView" pc="268437084" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawOutlinedNumber&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="13" lineNum="186" parent="globals/YellowGoldView" pc="268437107" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawOutlinedNumber&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="13" lineNum="187" parent="globals/YellowGoldView" pc="268437130" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawOutlinedNumber&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="13" lineNum="188" parent="globals/YellowGoldView" pc="268437156" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawOutlinedNumber&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="13" lineNum="189" parent="globals/YellowGoldView" pc="268437182" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawOutlinedNumber&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="13" lineNum="190" parent="globals/YellowGoldView" pc="268437208" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawOutlinedNumber&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="13" lineNum="191" parent="globals/YellowGoldView" pc="268437234" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawOutlinedNumber&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="13" lineNum="192" parent="globals/YellowGoldView" pc="268437247" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawOutlinedNumber&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="14" lineNum="73" parent="globals/YellowGoldView" pc="268437268" symbol="onEnterSleep"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="14" lineNum="74" parent="globals/YellowGoldView" pc="268437270" symbol="onEnterSleep"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="14" lineNum="75" parent="globals/YellowGoldView" pc="268437278" symbol="onEnterSleep"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="87" parent="globals/YellowGoldView" pc="268437290" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="88" parent="globals/YellowGoldView" pc="268437293" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="89" parent="globals/YellowGoldView" pc="268437310" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="90" parent="globals/YellowGoldView" pc="268437326" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="90" parent="globals/YellowGoldView" pc="268437334" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="91" parent="globals/YellowGoldView" pc="268437341" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="92" parent="globals/YellowGoldView" pc="268437363" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="93" parent="globals/YellowGoldView" pc="268437367" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="95" parent="globals/YellowGoldView" pc="268437387" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="96" parent="globals/YellowGoldView" pc="268437391" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="97" parent="globals/YellowGoldView" pc="268437395" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="98" parent="globals/YellowGoldView" pc="268437399" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="99" parent="globals/YellowGoldView" pc="268437414" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="100" parent="globals/YellowGoldView" pc="268437424" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="101" parent="globals/YellowGoldView" pc="268437443" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="103" parent="globals/YellowGoldView" pc="268437459" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="105" parent="globals/YellowGoldView" pc="268437488" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="15" lineNum="106" parent="globals/YellowGoldView" pc="268437502" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="16" lineNum="296" parent="globals/YellowGoldView" pc="268437529" symbol="&lt;globals/YellowGoldView/&lt;&gt;getSteps&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="16" lineNum="297" parent="globals/YellowGoldView" pc="268437532" symbol="&lt;globals/YellowGoldView/&lt;&gt;getSteps&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="16" lineNum="298" parent="globals/YellowGoldView" pc="268437544" symbol="&lt;globals/YellowGoldView/&lt;&gt;getSteps&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="16" lineNum="299" parent="globals/YellowGoldView" pc="268437561" symbol="&lt;globals/YellowGoldView/&lt;&gt;getSteps&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="16" lineNum="301" parent="globals/YellowGoldView" pc="268437585" symbol="&lt;globals/YellowGoldView/&lt;&gt;getSteps&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="17" lineNum="32" parent="globals/YellowGoldView" pc="268437591" symbol="initialize"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="17" lineNum="33" parent="globals/YellowGoldView" pc="268437593" symbol="initialize"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="18" lineNum="42" parent="globals/YellowGoldView" pc="268437606" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="18" lineNum="43" parent="globals/YellowGoldView" pc="268437609" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="18" lineNum="44" parent="globals/YellowGoldView" pc="268437621" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="18" lineNum="46" parent="globals/YellowGoldView" pc="268437643" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="18" lineNum="47" parent="globals/YellowGoldView" pc="268437655" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="18" lineNum="48" parent="globals/YellowGoldView" pc="268437663" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="18" lineNum="49" parent="globals/YellowGoldView" pc="268437674" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="18" lineNum="52" parent="globals/YellowGoldView" pc="268437689" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="18" lineNum="53" parent="globals/YellowGoldView" pc="268437702" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="18" lineNum="54" parent="globals/YellowGoldView" pc="268437717" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="18" lineNum="55" parent="globals/YellowGoldView" pc="268437732" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="18" lineNum="59" parent="globals/YellowGoldView" pc="268437747" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="18" lineNum="60" parent="globals/YellowGoldView" pc="268437767" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="213" parent="globals/YellowGoldView" pc="268437785" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="214" parent="globals/YellowGoldView" pc="268437788" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="215" parent="globals/YellowGoldView" pc="268437800" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="216" parent="globals/YellowGoldView" pc="268437810" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="217" parent="globals/YellowGoldView" pc="268437813" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="222" parent="globals/YellowGoldView" pc="268437833" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="223" parent="globals/YellowGoldView" pc="268437841" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="224" parent="globals/YellowGoldView" pc="268437858" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="225" parent="globals/YellowGoldView" pc="268437905" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="227" parent="globals/YellowGoldView" pc="268437931" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="228" parent="globals/YellowGoldView" pc="268437949" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="229" parent="globals/YellowGoldView" pc="268437963" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="230" parent="globals/YellowGoldView" pc="268437984" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="231" parent="globals/YellowGoldView" pc="268437992" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="233" parent="globals/YellowGoldView" pc="268438038" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="234" parent="globals/YellowGoldView" pc="268438052" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="239" parent="globals/YellowGoldView" pc="268438118" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="240" parent="globals/YellowGoldView" pc="268438134" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="241" parent="globals/YellowGoldView" pc="268438150" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="242" parent="globals/YellowGoldView" pc="268438153" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="243" parent="globals/YellowGoldView" pc="268438169" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="245" parent="globals/YellowGoldView" pc="268438202" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="246" parent="globals/YellowGoldView" pc="268438218" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="247" parent="globals/YellowGoldView" pc="268438234" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="248" parent="globals/YellowGoldView" pc="268438254" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="250" parent="globals/YellowGoldView" pc="268438279" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="19" lineNum="252" parent="globals/YellowGoldView" pc="268438312" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="20" lineNum="329" parent="globals/YellowGoldView" pc="268438328" symbol="&lt;globals/YellowGoldView/&lt;&gt;getBodyBatteryValue&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="20" lineNum="330" parent="globals/YellowGoldView" pc="268438331" symbol="&lt;globals/YellowGoldView/&lt;&gt;getBodyBatteryValue&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="20" lineNum="331" parent="globals/YellowGoldView" pc="268438361" symbol="&lt;globals/YellowGoldView/&lt;&gt;getBodyBatteryValue&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="20" lineNum="332" parent="globals/YellowGoldView" pc="268438388" symbol="&lt;globals/YellowGoldView/&lt;&gt;getBodyBatteryValue&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="20" lineNum="333" parent="globals/YellowGoldView" pc="268438394" symbol="&lt;globals/YellowGoldView/&lt;&gt;getBodyBatteryValue&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="20" lineNum="334" parent="globals/YellowGoldView" pc="268438404" symbol="&lt;globals/YellowGoldView/&lt;&gt;getBodyBatteryValue&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="20" lineNum="335" parent="globals/YellowGoldView" pc="268438421" symbol="&lt;globals/YellowGoldView/&lt;&gt;getBodyBatteryValue&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldView.mc" id="20" lineNum="339" parent="globals/YellowGoldView" pc="268438438" symbol="&lt;globals/YellowGoldView/&lt;&gt;getBodyBatteryValue&gt;"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Theme.mc" id="21" lineNum="19" parent="globals/Theme" pc="268438440" symbol="scaled"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Theme.mc" id="21" lineNum="20" parent="globals/Theme" pc="268438451" symbol="scaled"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Theme.mc" id="21" lineNum="21" parent="globals/Theme" pc="268438468" symbol="scaled"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Theme.mc" id="21" lineNum="22" parent="globals/Theme" pc="268438485" symbol="scaled"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Theme.mc" id="21" lineNum="23" parent="globals/Theme" pc="268438499" symbol="scaled"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Theme.mc" id="22" lineNum="36" parent="globals/Theme" pc="268438514" symbol="accentColor"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Theme.mc" id="22" lineNum="37" parent="globals/Theme" pc="268438524" symbol="accentColor"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Theme.mc" id="22" lineNum="38" parent="globals/Theme" pc="268438548" symbol="accentColor"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Theme.mc" id="22" lineNum="40" parent="globals/Theme" pc="268438559" symbol="accentColor"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldApp.mc" id="23" lineNum="12" parent="globals/YellowGoldApp" pc="268438568" symbol="onStart"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldApp.mc" id="24" lineNum="24" parent="globals/YellowGoldApp" pc="268438571" symbol="onSettingsChanged"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldApp.mc" id="24" lineNum="25" parent="globals/YellowGoldApp" pc="268438573" symbol="onSettingsChanged"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldApp.mc" id="25" lineNum="19" parent="globals/YellowGoldApp" pc="268438585" symbol="getInitialView"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldApp.mc" id="25" lineNum="20" parent="globals/YellowGoldApp" pc="268438587" symbol="getInitialView"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldApp.mc" id="26" lineNum="8" parent="globals/YellowGoldApp" pc="268438613" symbol="initialize"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldApp.mc" id="26" lineNum="9" parent="globals/YellowGoldApp" pc="268438615" symbol="initialize"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\YellowGoldApp.mc" id="27" lineNum="15" parent="globals/YellowGoldApp" pc="268438628" symbol="onStop"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Settings.mc" id="28" lineNum="49" parent="globals/Settings" pc="268438631" symbol="load"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Settings.mc" id="28" lineNum="50" parent="globals/Settings" pc="268438641" symbol="load"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Settings.mc" id="29" lineNum="37" parent="globals/Settings" pc="268438788" symbol="readBoolean"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Settings.mc" id="29" lineNum="39" parent="globals/Settings" pc="268438799" symbol="readBoolean"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Settings.mc" id="29" lineNum="40" parent="globals/Settings" pc="268438815" symbol="readBoolean"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Settings.mc" id="29" lineNum="41" parent="globals/Settings" pc="268438830" symbol="readBoolean"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Settings.mc" id="29" lineNum="43" parent="globals/Settings" pc="268438845" symbol="readBoolean"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Settings.mc" id="29" lineNum="46" parent="globals/Settings" pc="268438861" symbol="readBoolean"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Settings.mc" id="30" lineNum="22" parent="globals/Settings" pc="268438864" symbol="readNumber"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Settings.mc" id="30" lineNum="24" parent="globals/Settings" pc="268438875" symbol="readNumber"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Settings.mc" id="30" lineNum="25" parent="globals/Settings" pc="268438891" symbol="readNumber"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Settings.mc" id="30" lineNum="26" parent="globals/Settings" pc="268438906" symbol="readNumber"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Settings.mc" id="30" lineNum="28" parent="globals/Settings" pc="268438915" symbol="readNumber"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Settings.mc" id="30" lineNum="29" parent="globals/Settings" pc="268438930" symbol="readNumber"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Settings.mc" id="30" lineNum="31" parent="globals/Settings" pc="268438951" symbol="readNumber"/>
+        <entry filename="C:\\dev\\garmin-watch-face\\source\\Settings.mc" id="30" lineNum="34" parent="globals/Settings" pc="268438967" symbol="readNumber"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="56" symbol="showBb"/>
+        <entry id="57" symbol="showSeconds"/>
+        <entry id="16" method="true" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="12" symbol="&lt;globals/YellowGoldView/&lt;&gt;_isSleeping&gt;"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry id="18" method="true" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;"/>
+        <entry field="true" id="41" symbol="DateFormatDayMonth"/>
+        <entry id="8389702" method="true" symbol="getHeartRateHistory"/>
+        <entry id="23" method="true" symbol="&lt;globals/YellowGoldView/&lt;&gt;getBodyBattery&gt;"/>
+        <entry id="28" method="true" symbol="scaled"/>
+        <entry field="true" id="48" symbol="ShowStepsTitle"/>
+        <entry field="true" id="38" symbol="AccentWhite"/>
+        <entry id="59" symbol="dateFormat"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry id="8391839" method="true" symbol="getBodyBatteryHistory"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="17" method="true" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;"/>
+        <entry id="54" symbol="showSteps"/>
+        <entry id="27" symbol="ACCENTS"/>
+        <entry field="true" id="46" symbol="ShowHeartRateTitle"/>
+        <entry field="true" id="42" symbol="DateFormatNumeric"/>
+        <entry field="true" id="40" symbol="AppName"/>
+        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
+        <entry id="4" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="24" method="true" symbol="&lt;globals/YellowGoldView/&lt;&gt;getBodyBatteryValue&gt;"/>
+        <entry id="8388631" module="true" symbol="Activity"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8390097" method="true" symbol="onPartialUpdate"/>
+        <entry field="true" id="47" symbol="ShowSecondsTitle"/>
+        <entry field="true" id="52" symbol="TimeFormatTitle"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="29" method="true" symbol="load"/>
+        <entry field="true" id="44" symbol="DateFormatWeekday"/>
+        <entry field="true" id="39" symbol="AccentYellow"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="22" method="true" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;"/>
+        <entry id="31" method="true" symbol="readNumber"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8392337" method="true" symbol="accentColor"/>
+        <entry id="20" method="true" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawOutlinedNumber&gt;"/>
+        <entry id="19" method="true" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;"/>
+        <entry field="true" id="36" symbol="AccentRed"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="53" symbol="timeFormat"/>
+        <entry id="8392335" module="true" object="true" symbol="Settings"/>
+        <entry field="true" id="45" symbol="ShowBodyBatteryTitle"/>
+        <entry field="true" id="35" symbol="AccentOrange"/>
+        <entry id="58" symbol="accent"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="21" method="true" symbol="&lt;globals/YellowGoldView/&lt;&gt;drawSeconds&gt;"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="37" symbol="AccentTitle"/>
+        <entry field="true" id="15" symbol="&lt;globals/YellowGoldView/&lt;&gt;_w&gt;"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="26" method="true" symbol="&lt;globals/YellowGoldView/&lt;&gt;getSteps&gt;"/>
+        <entry field="true" id="32" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="5" module="true" symbol="globals/Settings"/>
+        <entry field="true" id="51" symbol="TimeFormatMil"/>
+        <entry id="30" method="true" symbol="readBoolean"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="11" symbol="&lt;globals/YellowGoldView/&lt;&gt;_h&gt;"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="33" symbol="AccentCyan"/>
+        <entry field="true" id="34" symbol="AccentGreen"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8" object="true" symbol="YellowGoldApp"/>
+        <entry id="8389808" symbol="period"/>
+        <entry id="8391701" method="true" symbol="setAntiAlias"/>
+        <entry field="true" id="43" symbol="DateFormatTitle"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="9" object="true" symbol="YellowGoldView"/>
+        <entry id="8389781" module="true" symbol="SensorHistory"/>
+        <entry field="true" id="10" symbol="&lt;globals/YellowGoldView/&lt;&gt;_flowY&gt;"/>
+        <entry field="true" id="50" symbol="TimeFormat24"/>
+        <entry field="true" id="49" symbol="TimeFormat12"/>
+        <entry id="25" method="true" symbol="&lt;globals/YellowGoldView/&lt;&gt;getHeartRate&gt;"/>
+        <entry id="7" module="true" symbol="Theme"/>
+        <entry field="true" id="14" symbol="&lt;globals/YellowGoldView/&lt;&gt;_secY&gt;"/>
+        <entry id="6" module="true" symbol="globals/Theme"/>
+        <entry field="true" id="13" symbol="&lt;globals/YellowGoldView/&lt;&gt;_secX&gt;"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="55" symbol="showHr"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435556" name="dc" stackId="1" startPc="268435526"/>
+        <entry arg="true" endPc="268435995" name="dc" stackId="1" startPc="268435557"/>
+        <entry arg="true" endPc="268435995" name="cfg" stackId="2" startPc="268435557"/>
+        <entry arg="true" endPc="268435995" name="accent" stackId="3" startPc="268435557"/>
+        <entry endPc="268435994" name="clock" stackId="4" startPc="268435560"/>
+        <entry endPc="268435994" name="hour" stackId="5" startPc="268435560"/>
+        <entry endPc="268435994" name="min" stackId="6" startPc="268435560"/>
+        <entry endPc="268435994" name="fmt" stackId="7" startPc="268435560"/>
+        <entry endPc="268435994" name="timeStr" stackId="8" startPc="268435560"/>
+        <entry endPc="268435994" name="ampm" stackId="9" startPc="268435560"/>
+        <entry endPc="268435688" name="h12" stackId="10" startPc="268435608"/>
+        <entry endPc="268435994" name="font" stackId="11" startPc="268435560"/>
+        <entry endPc="268435994" name="fh" stackId="12" startPc="268435560"/>
+        <entry endPc="268435994" name="cx" stackId="13" startPc="268435560"/>
+        <entry endPc="268435994" name="cy" stackId="14" startPc="268435560"/>
+        <entry endPc="268435994" name="tw" stackId="15" startPc="268435560"/>
+        <entry endPc="268435994" name="rightX" stackId="16" startPc="268435560"/>
+        <entry endPc="268435994" name="secFh" stackId="17" startPc="268435560"/>
+        <entry endPc="268436036" name="v" stackId="1" startPc="268435999"/>
+        <entry arg="true" endPc="268436367" name="dc" stackId="1" startPc="268436037"/>
+        <entry arg="true" endPc="268436367" name="cfg" stackId="2" startPc="268436037"/>
+        <entry arg="true" endPc="268436367" name="accent" stackId="3" startPc="268436037"/>
+        <entry endPc="268436366" name="fields" stackId="4" startPc="268436040"/>
+        <entry endPc="268436366" name="n" stackId="5" startPc="268436040"/>
+        <entry endPc="268436366" name="rowY" stackId="6" startPc="268436040"/>
+        <entry endPc="268436366" name="labelFont" stackId="7" startPc="268436040"/>
+        <entry endPc="268436366" name="valueFont" stackId="8" startPc="268436040"/>
+        <entry endPc="268436366" name="labelH" stackId="9" startPc="268436040"/>
+        <entry endPc="268436366" name="labelColor" stackId="10" startPc="268436040"/>
+        <entry endPc="268436366" name="i" stackId="11" startPc="268436248"/>
+        <entry endPc="268436356" name="fx" stackId="12" startPc="268436248"/>
+        <entry endPc="268436356" name="label" stackId="13" startPc="268436248"/>
+        <entry endPc="268436356" name="value" stackId="14" startPc="268436248"/>
+        <entry endPc="268436549" name="act" stackId="1" startPc="268436371"/>
+        <entry endPc="268436540" name="it" stackId="2" startPc="268436454"/>
+        <entry endPc="268436537" name="sample" stackId="3" startPc="268436487"/>
+        <entry arg="true" endPc="268436732" name="dc" stackId="1" startPc="268436550"/>
+        <entry arg="true" endPc="268436732" name="accent" stackId="2" startPc="268436550"/>
+        <entry arg="true" endPc="268436732" name="doClip" stackId="3" startPc="268436550"/>
+        <entry endPc="268436731" name="secStr" stackId="4" startPc="268436553"/>
+        <entry endPc="268436731" name="font" stackId="5" startPc="268436553"/>
+        <entry endPc="268436731" name="w" stackId="6" startPc="268436553"/>
+        <entry endPc="268436731" name="h" stackId="7" startPc="268436553"/>
+        <entry arg="true" endPc="268436807" name="dc" stackId="1" startPc="268436733"/>
+        <entry endPc="268436806" name="cfg" stackId="2" startPc="268436736"/>
+        <entry endPc="268436803" name="accent" stackId="3" startPc="268436768"/>
+        <entry arg="true" endPc="268437012" name="dc" stackId="1" startPc="268436808"/>
+        <entry arg="true" endPc="268437012" name="x" stackId="2" startPc="268436808"/>
+        <entry arg="true" endPc="268437012" name="y" stackId="3" startPc="268436808"/>
+        <entry arg="true" endPc="268437012" name="w" stackId="4" startPc="268436808"/>
+        <entry arg="true" endPc="268437012" name="h" stackId="5" startPc="268436808"/>
+        <entry arg="true" endPc="268437012" name="level" stackId="6" startPc="268436808"/>
+        <entry arg="true" endPc="268437012" name="color" stackId="7" startPc="268436808"/>
+        <entry endPc="268437011" name="nubW" stackId="8" startPc="268436811"/>
+        <entry endPc="268437011" name="bodyW" stackId="9" startPc="268436811"/>
+        <entry endPc="268437011" name="pad" stackId="10" startPc="268436811"/>
+        <entry endPc="268437011" name="maxFill" stackId="11" startPc="268436811"/>
+        <entry endPc="268437011" name="fillW" stackId="12" startPc="268436811"/>
+        <entry arg="true" endPc="268437267" name="dc" stackId="1" startPc="268437013"/>
+        <entry arg="true" endPc="268437267" name="x" stackId="2" startPc="268437013"/>
+        <entry arg="true" endPc="268437267" name="y" stackId="3" startPc="268437013"/>
+        <entry arg="true" endPc="268437267" name="font" stackId="4" startPc="268437013"/>
+        <entry arg="true" endPc="268437267" name="str" stackId="5" startPc="268437013"/>
+        <entry arg="true" endPc="268437267" name="accent" stackId="6" startPc="268437013"/>
+        <entry endPc="268437266" name="o" stackId="7" startPc="268437016"/>
+        <entry endPc="268437266" name="just" stackId="8" startPc="268437016"/>
+        <entry arg="true" endPc="268437528" name="dc" stackId="1" startPc="268437290"/>
+        <entry arg="true" endPc="268437528" name="accent" stackId="2" startPc="268437290"/>
+        <entry endPc="268437527" name="level" stackId="3" startPc="268437293"/>
+        <entry endPc="268437527" name="pct" stackId="4" startPc="268437293"/>
+        <entry endPc="268437527" name="str" stackId="5" startPc="268437293"/>
+        <entry endPc="268437527" name="font" stackId="6" startPc="268437293"/>
+        <entry endPc="268437527" name="color" stackId="7" startPc="268437293"/>
+        <entry endPc="268437527" name="iconW" stackId="8" startPc="268437293"/>
+        <entry endPc="268437527" name="iconH" stackId="9" startPc="268437293"/>
+        <entry endPc="268437527" name="gap" stackId="10" startPc="268437293"/>
+        <entry endPc="268437527" name="tw" stackId="11" startPc="268437293"/>
+        <entry endPc="268437527" name="totalW" stackId="12" startPc="268437293"/>
+        <entry endPc="268437527" name="cy" stackId="13" startPc="268437293"/>
+        <entry endPc="268437527" name="leftX" stackId="14" startPc="268437293"/>
+        <entry endPc="268437590" name="info" stackId="1" startPc="268437532"/>
+        <entry arg="true" endPc="268437784" name="dc" stackId="1" startPc="268437606"/>
+        <entry endPc="268437783" name="cfg" stackId="2" startPc="268437609"/>
+        <entry endPc="268437783" name="accent" stackId="3" startPc="268437609"/>
+        <entry arg="true" endPc="268438327" name="dc" stackId="1" startPc="268437785"/>
+        <entry arg="true" endPc="268438327" name="cfg" stackId="2" startPc="268437785"/>
+        <entry arg="true" endPc="268438327" name="accent" stackId="3" startPc="268437785"/>
+        <entry endPc="268438326" name="now" stackId="4" startPc="268437788"/>
+        <entry endPc="268438326" name="fmt" stackId="5" startPc="268437788"/>
+        <entry endPc="268438326" name="dateFont" stackId="6" startPc="268437788"/>
+        <entry endPc="268438326" name="dim" stackId="7" startPc="268437788"/>
+        <entry endPc="268438326" name="segs" stackId="8" startPc="268437788"/>
+        <entry endPc="268437927" name="s" stackId="9" startPc="268437841"/>
+        <entry endPc="268437927" name="str" stackId="10" startPc="268437841"/>
+        <entry endPc="268438117" name="m" stackId="11" startPc="268437931"/>
+        <entry endPc="268438117" name="mon" stackId="12" startPc="268437931"/>
+        <entry endPc="268438117" name="day" stackId="13" startPc="268437931"/>
+        <entry endPc="268438117" name="wd" stackId="14" startPc="268438038"/>
+        <entry endPc="268438326" name="dh" stackId="15" startPc="268437788"/>
+        <entry endPc="268438326" name="dy" stackId="16" startPc="268437788"/>
+        <entry endPc="268438326" name="total" stackId="17" startPc="268437788"/>
+        <entry endPc="268438201" name="i" stackId="18" startPc="268438169"/>
+        <entry endPc="268438326" name="x" stackId="19" startPc="268437788"/>
+        <entry endPc="268438311" name="i" stackId="20" startPc="268438234"/>
+        <entry endPc="268438434" name="it" stackId="1" startPc="268438361"/>
+        <entry endPc="268438431" name="sample" stackId="2" startPc="268438394"/>
+        <entry arg="true" endPc="268438513" name="color" stackId="1" startPc="268438440"/>
+        <entry arg="true" endPc="268438513" name="num" stackId="2" startPc="268438440"/>
+        <entry arg="true" endPc="268438513" name="den" stackId="3" startPc="268438440"/>
+        <entry endPc="268438513" name="r" stackId="4" startPc="268438451"/>
+        <entry endPc="268438513" name="g" stackId="5" startPc="268438451"/>
+        <entry endPc="268438513" name="b" stackId="6" startPc="268438451"/>
+        <entry arg="true" endPc="268438567" name="index" stackId="1" startPc="268438514"/>
+        <entry arg="true" endPc="268438863" name="key" stackId="1" startPc="268438788"/>
+        <entry arg="true" endPc="268438863" name="def" stackId="2" startPc="268438788"/>
+        <entry endPc="268438838" name="v" stackId="3" startPc="268438799"/>
+        <entry endPc="268438855" name="e" stackId="4" startPc="268438845"/>
+        <entry arg="true" endPc="268438969" name="key" stackId="1" startPc="268438864"/>
+        <entry arg="true" endPc="268438969" name="def" stackId="2" startPc="268438864"/>
+        <entry endPc="268438944" name="v" stackId="3" startPc="268438875"/>
+        <entry endPc="268438961" name="e" stackId="4" startPc="268438951"/>
+    </localVars>
+    <deviceInfo deviceVersion="6ba91403eda5c30a6644610fa0938a238f4167f3" partNumber="006-B4631-00"/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AccentRed"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="TimeFormatMil"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="TimeFormatTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AccentCyan"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AccentYellow"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowStepsTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowBodyBatteryTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="DateFormatNumeric"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AccentWhite"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="TimeFormat24"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AccentGreen"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="TimeFormat12"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="DateFormatTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowSecondsTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AccentOrange"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AccentTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowHeartRateTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="DateFormatWeekday"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="DateFormatDayMonth"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="67" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/YellowGoldView" offset="143" parentId="globals" symbolId="YellowGoldView" type="class"/>
+        <dataEntry label="globals/Rez" offset="385" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Theme" offset="429" parentId="globals" symbolId="Theme" type="module"/>
+        <dataEntry label="globals/YellowGoldApp" offset="482" parentId="globals" symbolId="YellowGoldApp" type="class"/>
+        <dataEntry label="globals/Settings" offset="562" parentId="globals" symbolId="Settings" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="615" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="650" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435471" name="&lt;init&gt;" parent="YellowGoldView" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435491" name="&lt;init&gt;" parent="Rez" startPc="268435472">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Theme">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435503" name="&lt;init&gt;" parent="YellowGoldApp" startPc="268435492">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Settings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435525" name="onExitSleep" parent="YellowGoldView" startPc="268435504">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435556" name="onLayout" parent="YellowGoldView" startPc="268435526">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268435995" name="&lt;globals/YellowGoldView/&lt;&gt;drawTime&gt;" parent="YellowGoldView" startPc="268435557">
+            <param id="dc"/>
+            <param id="cfg"/>
+            <param id="accent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436036" name="&lt;globals/YellowGoldView/&lt;&gt;getBodyBattery&gt;" parent="YellowGoldView" startPc="268435996">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436367" name="&lt;globals/YellowGoldView/&lt;&gt;drawDataRow&gt;" parent="YellowGoldView" startPc="268436037">
+            <param id="dc"/>
+            <param id="cfg"/>
+            <param id="accent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436549" name="&lt;globals/YellowGoldView/&lt;&gt;getHeartRate&gt;" parent="YellowGoldView" startPc="268436368">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436732" name="&lt;globals/YellowGoldView/&lt;&gt;drawSeconds&gt;" parent="YellowGoldView" startPc="268436550">
+            <param id="dc"/>
+            <param id="accent"/>
+            <param id="doClip"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436807" name="onPartialUpdate" parent="YellowGoldView" startPc="268436733">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437012" name="&lt;globals/YellowGoldView/&lt;&gt;drawBatteryIcon&gt;" parent="YellowGoldView" startPc="268436808">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="w"/>
+            <param id="h"/>
+            <param id="level"/>
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437267" name="&lt;globals/YellowGoldView/&lt;&gt;drawOutlinedNumber&gt;" parent="YellowGoldView" startPc="268437013">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="font"/>
+            <param id="str"/>
+            <param id="accent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437289" name="onEnterSleep" parent="YellowGoldView" startPc="268437268">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437528" name="&lt;globals/YellowGoldView/&lt;&gt;drawBattery&gt;" parent="YellowGoldView" startPc="268437290">
+            <param id="dc"/>
+            <param id="accent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437590" name="&lt;globals/YellowGoldView/&lt;&gt;getSteps&gt;" parent="YellowGoldView" startPc="268437529">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437605" name="initialize" parent="YellowGoldView" startPc="268437591">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437784" name="onUpdate" parent="YellowGoldView" startPc="268437606">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438327" name="&lt;globals/YellowGoldView/&lt;&gt;drawDate&gt;" parent="YellowGoldView" startPc="268437785">
+            <param id="dc"/>
+            <param id="cfg"/>
+            <param id="accent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438439" name="&lt;globals/YellowGoldView/&lt;&gt;getBodyBatteryValue&gt;" parent="YellowGoldView" startPc="268438328">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438513" name="scaled" parent="Theme" startPc="268438440">
+            <param id="color"/>
+            <param id="num"/>
+            <param id="den"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438567" name="accentColor" parent="Theme" startPc="268438514">
+            <param id="index"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438570" name="onStart" parent="YellowGoldApp" startPc="268438568">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438584" name="onSettingsChanged" parent="YellowGoldApp" startPc="268438571">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438612" name="getInitialView" parent="YellowGoldApp" startPc="268438585">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438627" name="initialize" parent="YellowGoldApp" startPc="268438613">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438630" name="onStop" parent="YellowGoldApp" startPc="268438628">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438787" name="load" parent="Settings" startPc="268438631">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438863" name="readBoolean" parent="Settings" startPc="268438788">
+            <param id="key"/>
+            <param id="def"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438969" name="readNumber" parent="Settings" startPc="268438864">
+            <param id="key"/>
+            <param id="def"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
