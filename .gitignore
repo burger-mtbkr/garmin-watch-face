@@ -141,3 +141,19 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# ---- Connect IQ / Monkey C ----
+# Build output (compiled app, store package, generated sources, MIR, caches)
+bin/
+*.prg
+*.prg.debug.xml
+*.iq
+gen/
+
+# Developer signing keys — must never be committed
+*.der
+*.pem
+
+# OS cruft
+.DS_Store
+Thumbs.db
