@@ -1,0 +1,23 @@
+# Normalize all text files to LF in the repository.
+* text=auto eol=lf
+
+# Source and config are always text (LF).
+*.mc       text eol=lf
+*.mss      text eol=lf
+*.xml      text eol=lf
+*.jungle   text eol=lf
+*.md       text eol=lf
+*.json     text eol=lf
+*.gitignore text eol=lf
+*.gitattributes text eol=lf
+
+# Windows helper scripts keep CRLF so they run correctly.
+*.ps1      text eol=crlf
+*.bat      text eol=crlf
+
+# Binary assets — never touch line endings.
+*.png      binary
+*.prg      binary
+*.iq       binary
+*.der      binary
+*.pem      binary
